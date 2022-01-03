@@ -1,12 +1,12 @@
 안녕하세요 😄
-26살 **컴퓨터소프트웨어학과 박준민**입니다. 👦🏻
+27살 **컴퓨터소프트웨어학과 박준민**입니다. 👦🏻
 
 - 🌱 2020.09 ~ 2021.05 졸업작품 진행
 - 🌱 2021.07 ~ 2021.12 빅데이터 기반 지능형 서비스 개발 5회차 수강 - 멀티캠퍼스 </br></br>
 
 
 Hello 😄
-I'm **Junmin Park**, 26 years old, majoring in **computer software**. 👦🏻
+I'm **Junmin Park**, 27 years old, majoring in **computer software**. 👦🏻
 
 - 🌱 2020.09 ~ 2021.05 Capstone Design
 - 🌱 2021.07 ~ 2021.12 Big data-based intelligent service development Course 5th Students - Multi Campus </br></br>
