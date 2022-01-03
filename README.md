@@ -12,14 +12,6 @@ I'm **Junmin Park**, 26 years old, majoring in **computer software**. 👦🏻
 - 🌱 2021.07 ~ 2021.12 Big data-based intelligent service development Course 5th Students - Multi Campus </br></br>
 
 
-<div align=center>
-  
-  <h3 align="center"><b> Today 🌼 </b></h3>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsals411)](https://hits.seeyoufarm.com) 
-
-</div>
-</br>
 <h3 align="center"><b> EXPERIENCE  ✅ </b></h3>
 
 <div align=center>
@@ -43,7 +35,17 @@ I'm **Junmin Park**, 26 years old, majoring in **computer software**. 👦🏻
   <h3 align="center"><b> ME ✋ </b></h3>
 
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/wnsals411/)](https://github.com/wnsals411/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto=jmp960905@gmail.com)](mailto:jmp960905@gmail.com) </br></br></br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto=jmp960905@gmail.com)](mailto:jmp960905@gmail.com) </br></br>
+
+<div align=center>
+  
+  <h3 align="center"><b> Today 🌼 </b></h3>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsals411)](https://hits.seeyoufarm.com) 
+
+</div>
+</br></br>
+
   
   
 [![wnsals411's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsals411&&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
