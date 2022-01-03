@@ -2,9 +2,9 @@
 26살 컴퓨터소프트웨어학과 박준민입니다.
 
 //깃헙 레포 사용 언어 수
-https://img.shields.io/github/languages/count/beygee/survive 
+<img src="https://img.shields.io/github/languages/count/beygee/survive"/></a>&nbsp
 //깃헙 레포 최다빈도 언어
-https://img.shields.io/github/languages/top/beygee/survive
+<img src="https://img.shields.io/github/languages/top/beygee/survive"/></a>&nbsp
 
 <h3 align="center"><b> Skills I've Used ✅ </b></h3>
 </br>
