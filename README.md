@@ -1,7 +1,7 @@
 안녕하세요.
 26살 컴퓨터소프트웨어학과 박준민입니다.
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b> Skills I've Used ✅ </b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
