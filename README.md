@@ -7,7 +7,7 @@
 (***https://github.com/wnsals411/Trendy-New***) </br></br>
 
 Hello 😄
-I'm **Junmin Park**, 27 years old, majoring in **computer software**. 👦🏻
+I'm **Junmin Park**, 30 years old, majoring in **computer software**. 👦🏻
 
 - 🌱 2021.07 ~ 2021.12 Big data-based intelligent service development Course 5th Students - Multi Campus </br>
 (***https://github.com/Jeong-Beom/Multicampus-Final_PleaseTell-***)
