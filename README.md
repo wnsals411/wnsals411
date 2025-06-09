@@ -1,8 +1,6 @@
 안녕하세요 😄
-27살 **컴퓨터소프트웨어학과 박준민**입니다. 👦🏻
+30살 **컴퓨터소프트웨어학과 박준민**입니다. 👦🏻
 
-- 🌱 2022.01.07 ~ 백준 알고리즘 공부 </br>
-(***https://github.com/wnsals411/Self-Study-BaekJoon-***)
 - 🌱 2021.07 ~ 2021.12 빅데이터 기반 지능형 서비스 개발 5회차 수강 - 멀티캠퍼스 </br>
 (***https://github.com/Jeong-Beom/Multicampus-Final_PleaseTell-***)
 - 🌱 2020.09 ~ 2021.05 졸업작품 진행 </br>
@@ -11,8 +9,6 @@
 Hello 😄
 I'm **Junmin Park**, 27 years old, majoring in **computer software**. 👦🏻
 
-- 🌱 2022.01.07 ~ Studying the Baek Joon Algorithm site </br>
-(***https://github.com/wnsals411/Self-Study-BaekJoon-***)
 - 🌱 2021.07 ~ 2021.12 Big data-based intelligent service development Course 5th Students - Multi Campus </br>
 (***https://github.com/Jeong-Beom/Multicampus-Final_PleaseTell-***)
 - 🌱 2020.09 ~ 2021.05 Capstone Design </br>
